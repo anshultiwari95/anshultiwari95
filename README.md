@@ -42,11 +42,10 @@ I care deeply about turning protocol-level complexity into seamless user experie
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshultiwari95&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshultiwari95&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshultiwari95&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 
