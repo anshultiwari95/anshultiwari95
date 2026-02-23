@@ -29,7 +29,7 @@ I care deeply about turning protocol-level complexity into seamless user experie
 `EVM` • `Smart Contracts` • `IPFS` • `Wallet Integrations`
 
 ### ⚙️ Backend & Architecture
-`Node.js` • `REST APIs` • `System Design` • `Infra Thinking`
+`Node.js` • `Express.js` • `REST APIs` • `System Design` • `Infra Thinking`
 
 ---
 
