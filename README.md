@@ -42,15 +42,6 @@ I care deeply about turning protocol-level complexity into seamless user experie
 
 ---
 
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshultiwari95&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
-
----
-
 ## 🌍 Find Me Around The Web
 
 📧 Email: anshul.tiwari1223@gmail.com
