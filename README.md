@@ -1,70 +1,64 @@
-# 👋 Hi, I'm Anshul Tiwari
+<h1 align="center">Hey 👋 I'm Anshul Tiwari</h1>
 
-Frontend Engineer building at the intersection of **AI × Web3**, focused on turning complex decentralized infrastructure into intuitive, usable products.
-
----
-
-## 🚀 My Journey
-
-My journey into tech started with curiosity about intelligent systems and how software can reshape industries.
-
-I transitioned into full-stack development and gradually moved into the Web3 ecosystem — where decentralization, data ownership, and trustless architecture completely changed how I think about building products.
-
-Today, I focus on designing and developing applications that bridge **AI systems with decentralized infrastructure**.
+<p align="center">
+⚡ Frontend Engineer • 🧠 AI × Web3 Explorer • 🧩 DevEx Thinker  
+</p>
 
 ---
 
-## 🧠 What I Do Now
+## 🧭 About Me
 
-Currently working as a Frontend Developer, building high-performance interfaces and simulation-based financial products.
+I build at the intersection of **AI and Web3**, focused on transforming complex decentralized infrastructure into intuitive, high-performance products.
 
-I actively explore:
+My work revolves around:
+- 🛰 Bridging AI systems with decentralized data
+- 🔐 Exploring trusted compute & user-owned data models
+- 🖥 Crafting scalable, clean frontend architecture
+- 🧠 Thinking in systems, not just components
 
-- AI-native Web3 applications  
-- Decentralized data ownership models  
-- Trusted compute systems  
-- Developer experience for protocol ecosystems  
-- Scalable frontend architecture  
-
-I enjoy translating complex protocol or backend systems into seamless user experiences.
+I care deeply about turning protocol-level complexity into seamless user experiences.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Playground
 
-### Frontend
-- React  
-- TypeScript  
-- Next.js  
-- Tailwind CSS  
-- Framer Motion  
+### 🎨 Frontend Arsenal
+`React` • `TypeScript` • `Next.js` • `Tailwind` • `Framer Motion`
 
-### Web3
-- EVM ecosystem  
-- Smart Contracts  
-- IPFS  
-- Wallet integrations  
+### ⛓ Web3 Stack
+`EVM` • `Smart Contracts` • `IPFS` • `Wallet Integrations`
 
-### Backend & Systems
-- Node.js  
-- REST APIs  
-- System Design fundamentals  
+### ⚙️ Backend & Architecture
+`Node.js` • `REST APIs` • `System Design` • `Infra Thinking`
 
 ---
 
-## 🎯 What Drives Me
+## 🧪 Currently Exploring
 
-- Building real-world usable products  
-- Simplifying complex infrastructure through thoughtful UI  
-- Exploring the AI × Web3 frontier  
-- Thinking in systems and architecture  
+- 🧬 AI-native decentralized applications  
+- 📡 Data ownership & compute layers  
+- 🏗 Protocol architecture & DevEx design  
+- 🚀 Performance-first frontend engineering  
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Stats
 
-Open to conversations around:
-- Web3 Infrastructure  
-- AI systems  
-- Frontend architecture  
-- Product & DevEx thinking  
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshultiwari95&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshultiwari95&layout=compact)
+
+---
+
+## 🌍 Find Me Around The Web
+
+📧 Email: anshul.tiwari1223@gmail.com
+🐦 Twitter/X: https://x.com/devAnshulTiwari
+💼 LinkedIn: https://www.linkedin.com/in/tiwari-anshul12/
+🌐 Portfolio: https://anshul-tiwari-dev.vercel.app/
+
+---
+
+<p align="center">
+⚡ Building the AI × Web3 future, one commit at a time.
+</p>
