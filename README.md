@@ -45,8 +45,8 @@ I care deeply about turning protocol-level complexity into seamless user experie
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshultiwari95&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshultiwari95&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshultiwari95&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshultiwari95&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 
